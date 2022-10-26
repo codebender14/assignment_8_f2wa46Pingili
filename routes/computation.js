@@ -13,7 +13,7 @@ router.get('/', function(req,res,next)
 
     res.render('computation',
     {
-        title: 'Sai Maneendra Pingili Compuring the functions',
+        title: 'Sai Maneendra Pingili Computing the functions',
         num1: num1,
         num2: num2,
         num3: num3,
