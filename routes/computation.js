@@ -19,7 +19,7 @@ router.get('/', function(req,res,next)
         num3: num3,
         num4: num4,
         atan: atanFunction,
-        exp: expFunction.
+        exp: expFunction,
         expm1: expm1Function
     });
 
